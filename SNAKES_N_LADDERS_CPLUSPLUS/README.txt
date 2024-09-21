@@ -1,0 +1,2 @@
+This project implements a "Snakes and Ladders" game in C++. The game can be run in manual or automatic mode and allows you to modify various parameters of the board and player settings.
+The main file,"main.cpp" contains the main game logic and the MyGame class, where you can modify the settings. while, "classes.cpp" Contains the Board,Player, and GameMode of Auto and Manual classes that handle the board setup and player actions.
